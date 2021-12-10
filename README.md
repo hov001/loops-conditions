@@ -22,3 +22,9 @@ Given an array consisting from the arrays of numbers (like a two-dimensional arr
 | [[1], [2], [3], [4]] | [1, 2, 3, 4] |
 
 [Decision link](./1.getSumItems.js)
+
+---
+
+2. Implementation Filter method
+
+[Decision link](./2.fakeFilter.js)
